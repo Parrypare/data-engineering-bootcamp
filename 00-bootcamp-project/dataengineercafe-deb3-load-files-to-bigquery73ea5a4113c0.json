@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "triple-zenith-414518",
+  "private_key_id": "73ea5a4113c0d9083b3fa03b964bb4a0d74fc06f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKX+lCu6E68BOP\nWEjz2eEqEPI6eiurLanMvQSK/Hk1KJpsKGi3xLFq8yU8MAVwnIe2ISR5TnaQt/IT\nBJVk30HtBP3CysBYnR1bNVImb8Xx/lp8nxwLHWftnmZaPmMePRCAv6zktBfZ1dO+\ncx1njjX5ygnybrzLlw/ssRDwlyTWqOj5csItdNvqtbDiZal8LyGtRL9pT/e8yqhj\nBPVFYiEkm9PiTZdFlye7CtHaeJVyFg0m2MzQHl6cXq+q/Ww4U52HPhcUwcfGDqGl\nO1e6Vijq1BEstrvehJ5bKHlCWhfuQ/8tRuwi4LEt1tFJH4uJTkbZEd4lgi9b8EwO\nixldJxFjAgMBAAECggEAHq1cUDPeFG+ZH3UcFe70vWo1Nd0YKoow/6q1ehYcj4zY\nn8WeXiEQXex+u/lxkakAv4CVpVfaDET+Cpj6xoA7X6EOkI0ojCZA8XcLPW1bHbxX\nXiXGW/74pqII1Ow5HTfXfRTRMhgEt44821Va4zxA/Vz9lgToVJpRHSmYLkhTGsDZ\nykxTzGBFNfCcJ3CmvvA8k98Ltk0YjR4GGP71LBLlrdXxXgzzfqA1OSHdS/cdqcQB\ndz/tQDY0cAyWfUGQqOtVacAQgdleJwxj5WN2+piQ7Cw1jHm2oGzZQYyDatIeJBy/\nW1MV5NaVyX2tEiGtw75G5U2crnRouetBbp2XMfDqbQKBgQD5G6dFVGhg7P6MOZr/\nXusWOSaW/JP0Dx6QJPuGsrQQcZ2+1OG7rCaVfG3gdl1LZJgqb52/a2KQKY0U8Fd8\nwaNtXhgh78OSzDCR/RZRktRRRcChqDKrNIWlSWg4q9rIYOkTqOQODzbOXEfO5HS9\nukRykAyy3wt7Pf1/0S2dOG8kFwKBgQDP+ULpH3+0DPZWtsNrL0QIDKCPBvCWJIdh\nq4OcPASJ7CUAMVkBvDWhCjxZuGlTpElMZlus80MM0Lg1Ue9xan/wvdj+E1uEAtV3\n/MkpZ4qdvHh4JTqiYgmL3SZjQ5klGuShEbq/DZvGPTIfyZjb0OsfRTTKR6JC1DYl\n+5pHQ9twlQKBgFx8k+H9sLMrymYtjQp7JzUdCuLL6/KVGnfSA0DDYG8qf7K2Pwj6\npWiixfiseX7gXk6DGkJTkEiN5L99bD35dr/IS5Vt+2KpRO8u0/Z9WS7Dgv2CAS3n\nVidD1doUlCoJMQAHmIRPyb1cLZz23RED8x3FtbFDdnPPVCr8cr8IkNsJAoGBAJ5R\nEHdoTA1jBK80B4TzgSVjf2IBlWmmOwzFxLVNFuNrSSthZXEltel2YkSmVj+ew1GO\nZeE9eWArDt9AFTdQLD62NpYLZFIU2i2x1+xV7rZuv4IuTPlKChxXaB6OWeleFIbs\neS1xDZEWCq8aBuvmmOXACBSn/URESUgWxPXVGRoVAoGATAp8k1KuAJ4FouQ7SWin\nbo3bhJKxoE6AcIs2temjDegxzbWPKZ8TFpTkvkxqzx13KZNH24hloQrO6OxLDIYh\nihfX2RtHnbkrkWTEeyMCGjQJrakGAS08iTlf8y0s9vSp2za+bt6kS+qiW1or0PMn\nIZ31AlXnOiVeu9EMrrxotu4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb3-load-file-to-bigquery@triple-zenith-414518.iam.gserviceaccount.com",
+  "client_id": "105306866835554125360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb3-load-file-to-bigquery%40triple-zenith-414518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

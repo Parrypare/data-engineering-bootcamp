@@ -1,13 +1,15 @@
 [tool.poetry]
-name = "data-engineering-lifecycle"
+name = "bootcamp-project"
 version = "0.1.0"
 description = ""
 authors = ["zkan <zkan.cs@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "3.10.13"
-requests = "2.31.0"
-
+requests = "2.29.0"
+pysftp = "0.2.9"
+psycopg2 = "2.9.6"
+google-cloud-bigquery = "3.17.2"
 
 [tool.poetry.dev-dependencies]
 
