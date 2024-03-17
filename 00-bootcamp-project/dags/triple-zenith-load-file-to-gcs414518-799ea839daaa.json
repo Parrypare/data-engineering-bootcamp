@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "triple-zenith-414518",
+  "private_key_id": "799ea839daaa668ef466450d834dc093251405dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUpybHhU2MK3AQ\nwtB8A4K9TSR0Se6llIgBJbYA5uzbEwm//pbXe1IilEWCh9ZUc1Wm686Gw/WHI4/u\nXqYpPj++SGWBKvpjXyU/mVxgY60A0jk5HjKyfSDEI9DcRyx2zHGnhAVJwU6Eoo22\nX5wbq9hUKVvlVlG2DkyfssQj5Wz/bT/y0TtPWc+k7h3H46q/wgKJ2B8EiP5eDnIH\n38q9Kfr3oTNH3czAQTp7RZCZQL/Ya/EfazuUDWLF6fqoTKtcD4D/jEUrVAE8wI1L\naAiqUVBdUosSMT8cnFqKxz21lvq+MGbxmq96aXdpwaNuxoSdVM5JHpKPx/zJvgwn\nyFJ2WF2FAgMBAAECggEALZvMDW7huvZ2CqI95Ns75y3sa6SPsqOwp85WwsrEchgb\nNzp7T6v7ab8zSVOo/GPgMvTQTscomdteu1lBegcH1N/iJVn6aeW2L3XNAj9ek5aC\n/2UiqnV72ZV07km1l6UxmyQNnkv/cyMKEdtft++bbjGQrBdfXxSiCn5k4u4J+p4n\nvfbIF1R6oQoiDtvdrUZDvhFtthXZsygFy696/NlDtLEwBfsCb493PfJt5epzEyJM\ns8mVv7/chZgPzRr1+m8peMTHHw/TIZ3/GP9XtRS4un3EFGoweBu+7NB/Pn3rbX/U\noXP8QUuZ5KndjNwTUmdtjhKxSmpj5W9bd6qOgEa4AQKBgQDw/GLDBHDoHBOlxFS2\nl+5QpcPVrlmc0t/ddvj/KYu4RzUgwWm/y44O+F5698380mp6G+qAtnWkmetbLLcw\n8X3KMryz+pavwfb5gZCPJC6ceM8Zdx1BWvRIye6aSvCarBwFS+pbbw5udAlE8/jc\nYKxfhy5I25egFJ9ywPeE6FhVxQKBgQDh5t5CarxIni9bcCUXP8vO893e1jFsvpVt\n4yCp1yWbwDbzXCTtJVR8IdWHtbHVR8P7M3hlmueCoC6bTxgeFoz6/YHo1Wcq/OEr\nC9+fCOVm1IN4RLUyBZ99kDEm2+mnsbXtWlliqgdX7Q4l0xHXw4db3JkGATLerXvV\nKFhXC/AkwQKBgQCMwHzWttNTXoLDQUbRVy/kfs1BExJYHHqQmZqZPiTTPxPyy8T+\nNuAEMmDMpcv0LNnv9Dolb2yK9TOYDyf4ODRmUvgQjv5QLZQY6uoKEPIAhjdAAmhd\n8cfYc8ke6UJatMew+EQrn1Pog3GeinkCDpzfNs970nZfE2yF09s+D474mQKBgQDD\nh+edqXFrka///2O7afbpHOBQfymsrJH+2XduStE8rPVjU8CKm6MzBr4ihzx0FXgn\nOHffymLVB/0PZTjE4lQI8+C8PercpKHpdo+KwlJ93Tgmo6IKuB9CucoxjmwCQKnt\n1iREaFOO4Zs7ViS9k3rYIms5bVQwtgzXheJhBe5IgQKBgQCh4CoBoIfW0ox8V+3V\nZX9p29VdzLR8GrMWkgHjHHE3ltUPSMN+zNbE21k6z9rspsyisrVQeA5y+U+FP2Tj\nlRA1echQ6qRykGjXjU5nziX2EqUh4aQqEjlBgZ4Mevqe7KjG7SuJC4zR7cc0hB4V\nuA+936EHCg5uYj0ChYobi3ByYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb3-uploading-files-to-gcs@triple-zenith-414518.iam.gserviceaccount.com",
+  "client_id": "112250682662766079687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb3-uploading-files-to-gcs%40triple-zenith-414518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
